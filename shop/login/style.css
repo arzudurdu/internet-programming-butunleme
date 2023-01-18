@@ -1,0 +1,33 @@
+/**/
+.giriss{
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.giriss .login{
+    margin: 20px auto;
+    width: 300px;
+}
+
+.giriss .login-screen{
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+}
+.giriss .app-title{
+    text-align: center;
+    color: #777;
+
+}
+.giriss .login-form{
+    text-align: center;
+}
+.giriss .control-group{
+    margin-bottom: 10px;
+}
+ .giriss input{
+    text-align: center;
+    background-color: #ecf0f1;
+    border: 2px solid transparent;
+    border-radius: 3px;
+ }
+/**/
